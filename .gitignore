@@ -1,0 +1,28 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained model & datasets (too large for GitHub — host externally, see README)
+*.keras
+*.h5
+train/
+valid/
+test/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
